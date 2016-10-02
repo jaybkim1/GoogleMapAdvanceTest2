@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GoogleMapAdvanceTest2</string>
+    <string name="title_activity_maps">GoogleMapAdvanceTest2</string>
+
+    <string name="distance">Choose a distance</string>
+
+    <string-array name="distance_array">
+        <item>500m</item>
+        <item>1000m</item>
+        <item>1500m</item>
+        <item>2000m</item>
+        <item>2500m</item>
+        <item>3000m</item>
+    </string-array>
+
+</resources>
